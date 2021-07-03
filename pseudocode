@@ -1,0 +1,22 @@
+
+Do the following until the user chooses to quit the program.
+
+Ask the user if they're converting to Fahrenheit or Celsius.
+
+If "fahrenheit" 
+	ask for the degrees in Celsius
+	convert it to Fahrenheit by using the formula c = (f-32)/1.8
+	print out the result
+
+If "celsius" 
+	ask the user for the degrees in Fahrenheit 
+	convert it to celsius with the formula f = c*1.8+32
+	print out the result
+
+If "quit"
+	print out a message indicating the program is quitting
+	quit the program
+
+else 
+	print out an error message.
+ 
